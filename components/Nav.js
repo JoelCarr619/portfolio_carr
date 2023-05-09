@@ -1,7 +1,6 @@
 import React from "react";
 
-const Nav = () => {
-  return <div className="bg-yellow-500 h-nav">Nav</div>;
+const nav = () => {
+  return <div className="bg-purple-800 h-navnpm install">Nav</div>;
 };
-
-export default Nav;
+export default nav;

@@ -1,3 +1,8 @@
 export default function Home() {
-  return <div className="bg-blue-500">hello world</div>;
+  <div></div>;
+  return (
+    <div className=".box-sizing: box-border; box-content bg-yellow-400">
+      hello world Testing
+    </div>
+  );
 }
